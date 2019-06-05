@@ -4,5 +4,5 @@
 
 def roll
   dice_array = [1, 2, 3, 4, 5, 6]
-  rand(dice_array)
+  shuffle(dice_array)
 end
